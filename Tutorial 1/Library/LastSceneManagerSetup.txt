@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/SimpleProject.unity
+  isLoaded: 1
+  isActive: 1
